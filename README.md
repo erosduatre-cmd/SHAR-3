@@ -18,5 +18,5 @@
 
 ### 📫 Connect with me
 <p align="left">
-
+<link https://tiktok.com/valorantnyx17/>
   
