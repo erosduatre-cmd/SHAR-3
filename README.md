@@ -1,10 +1,5 @@
 # Hi there, I'm shar! 👋 :3
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
----
-
 ### 🚀 About Me
 - 🔭 I’m currently working on a becoming a tiktoker! its valorantnyx17.
 - 🌱 I’m currently learning spanish.
