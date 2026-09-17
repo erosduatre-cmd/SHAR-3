@@ -3,17 +3,6 @@
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
-
-### 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
 ---
 
 ### 🚀 About Me
